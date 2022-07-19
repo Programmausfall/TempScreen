@@ -9,10 +9,10 @@ Hi, im Programmausfall, a german protogen fursuiter and sometimes PCB maker that
 DHT22 or DHT11 Digital thermometer/humidity sensor 
 the pinouts for the DHT22 and DHT11 are the same, but the DHT22 has better performence and is more accurate
 Pins with the "intake" to the front
-Pin 1 to VCC
-Pin 2 to Data
-Ignore pin 3
-Pin 4 to Ground/GND
+1. Pin 1 to VCC
+2. Pin 2 to Data
+3. Ignore pin 3
+4. Pin 4 to Ground/GND
 ## Display
 SSD1306 128x64 or 128x32 pixel i2c OLED as a Display that can be mounted in the head or in the eyes
 (Most come with 4 pinheaders that can be desoldered and replaced with wires)
