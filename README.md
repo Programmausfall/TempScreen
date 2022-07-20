@@ -16,7 +16,7 @@ Pins with the "intake" to the front
 ## Display
 SSD1306 128x64 or 128x32 pixel i2c OLED as a Display that can be mounted in the head or in the eyes
 (Most come with 4 pinheaders that can be desoldered and replaced with wires)
-
+(!Currently only supports the 128x64 pixel version!)
 ## Computing 
 Pro Micro, NiceNano! or simular Pro Micro footprint boards 
 (!Pro Micro USB C boards are a bit longer and will not fit in the case!)
